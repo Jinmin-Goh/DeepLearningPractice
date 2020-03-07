@@ -145,3 +145,14 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/python,windows,visualstudiocode
+Github/
+.vscode/
+~$sic Machine & Deep Learning with TensorFlow.docx
+venv/
+Lab/Lab7/MNIST_data/
+Lab/Lab4/data-01-test-score.csv
+Lab/Lab5/data-03-diabetes.csv
+Lab/Lab6/data-04-zoo.csv
+Lab/Lab9/data-04-zoo.csv
+Lab/Lab9/MNIST_data/
+Lecture/
